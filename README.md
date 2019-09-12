@@ -1,6 +1,6 @@
 # Autonomous-Control-of-a-RC-Car
-Using Arduino to building autonomous capabilities in a RC car
-/Contributors: Greg Brulo, Krishna Varadarajan
+Using Arduino to building autonomous capabilities in a RC car //
+/Contributors: Greg Brulo, Krishna Varadarajan //
 /Instructor: Dr. Sean Brennan
 /brief: 
 RC type vehicles have the potential to go faster than the students can control. 
